@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aditya</groupId>
-	<artifactId>Travel-Planner</artifactId>
+	<artifactId>Travel-Planner-Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Travel-Planner</name>
 	<description>Practice Project for SpringBoot</description>
